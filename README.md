@@ -5,10 +5,9 @@
 
 ---
 
-<img src =KakaoTalk_20220611_195952036.jpg height =150 width =150>
-
-
-
+<img src =KakaoTalk_20220611_195952036.jpg height =300 width =300>
+ 안녕하세요. 한림대학교 화학과 15학번 김경하입니다.   
+ 
 ---
 
 소속 : 자연과학대학 화학과    
