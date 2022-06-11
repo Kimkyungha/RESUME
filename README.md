@@ -1,4 +1,6 @@
 # 한림대학교 화학과 
 ---
 
-![이력서사진](KakaoTalk_20220611_195952036.jpg)
+
+
+<img src =KakaoTalk_20220611_195952036.jpg height =150 width =150>
