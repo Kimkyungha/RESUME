@@ -34,6 +34,6 @@
 
 --------
 
-Link : [한림대학교 무기소재연구실][lwrlab]
+[한림대학교 무기소재연구실][lwrlab]
 
 [lwrlab]:https://www.lwrlab.com/
